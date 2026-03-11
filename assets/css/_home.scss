@@ -1,0 +1,59 @@
+.masthead__menu {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background-color: white; /* or your preferred bg color */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* subtle shadow */
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 1s ease, transform 1s ease;
+}
+
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.full-page-layout {
+  display: flex;
+  min-height: 100vh; /* Full vertical height */
+}
+
+.sidebar-image {
+  flex: 0 0 300px; /* Fixed width sidebar */
+  background-color: #333; /* Optional: background behind image */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.sidebar-image img {
+  height: 100vh;
+  width: auto;
+  object-fit: cover;
+  object-position: 40% center;
+}
+
+.main-content {
+  flex: 1;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;  /* 🔹 smaller padding = shorter button */
+  background-color: #5e616c;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
