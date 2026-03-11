@@ -1,14 +1,8 @@
 main:
   - title: Home
     url: /
-  - title: Research
-    url: /research/
-  - title: Publications
-    url: /publications/
-  - title: Tools
-    url: /tools/
-  - title: People
-    url: /people/
-  - title: Join us
-    url: /join/
+  - title: Agenda
+    url: /agenda/
+  - title: Registration
+    url: /book/
 
