@@ -20,7 +20,7 @@ permalink: /book/
             <tr>
             <td align="center">
             
-            <img src="{{ '/assets/images/mb.png' | relative_url }}" 
+            <img src="{{ '/assets/images/mb.jpg' | relative_url }}" 
             alt="Dr. Marie Brunet"
             style="width:150px;height:150px;border-radius:50%;object-fit:cover;"><br>
             
