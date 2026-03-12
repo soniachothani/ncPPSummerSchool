@@ -25,7 +25,7 @@ permalink: /book/
             style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
             
             <strong>Marie Brunet</strong><br>
-            Genome Institute of Singapore, A*STAR<br>
+            Sherbrooke University, Canada <br>
             marie.brunet@usherbrooke.ca
             
             </td>
