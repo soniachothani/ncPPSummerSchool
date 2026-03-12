@@ -18,7 +18,7 @@ permalink: /agenda/
 <br>
 <br>
 
-<img src="{{ '/assets/images/schedule.png' | relative_url }}" />
+<img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
