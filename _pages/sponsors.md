@@ -12,12 +12,7 @@ permalink: /sponsors/
     </div>
     <div class="main-content">   
      
-        
-   <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;object-fit:cover;"> 
-   
-   <img src="{{ '/assets/images/transcode_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;object-fit:cover;">
-
-   
+  
 
 
     </div>
