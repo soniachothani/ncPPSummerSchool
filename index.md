@@ -8,10 +8,7 @@ classes: landing
 <div class="page-wrapper">
   <section class="page-section hero-section fade-in">
     <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Lab Hero Image" />
-    <div class="hero-text">
-      <h1>Laboratory of RNA Translation</h1>
-      <p>Uncovering the hidden layer of gene expression</p>
-    </div>
+    
   </section>
 
   <section class="page-section full-page-layout fade-in">
