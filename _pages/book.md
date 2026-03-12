@@ -22,7 +22,7 @@ permalink: /book/
             
             <img src="{{ '/assets/images/mb.jpg' | relative_url }}" 
             alt="Dr. Marie Brunet"
-            style="width:150px;height:150px;border-radius:50%;object-fit:cover;"><br>
+            style="width:200px;height:200px;border-radius:30%;object-fit:cover;"><br>
             
             <strong>Marie Brunet</strong><br>
             Genome Institute of Singapore, A*STAR<br>
