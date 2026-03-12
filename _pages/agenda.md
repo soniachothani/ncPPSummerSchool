@@ -14,12 +14,13 @@ permalink: /agenda/
 
 <img src="{{ '/assets/images/schedule.png' | relative_url }}" />
 
-Session titles (subject to change)
+Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
 S02: Experimental workflows and pre-processing <br>
 S03: Application-catered selection of ORFs for downstream applications <br>
 S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
+<br>
     </div>
 
 </section>
