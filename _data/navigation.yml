@@ -1,6 +1,8 @@
 main:
   - title: Home
     url: /
+  - title: About us
+    url: /about
   - title: Schedule
     url: /agenda/
   - title: Registration
