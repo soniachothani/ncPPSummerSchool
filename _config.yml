@@ -1,5 +1,5 @@
-title: Chothani lab website
-description: Lab details
+title: ncPP summer school website
+description: ncPP summer school details
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
@@ -10,14 +10,14 @@ baseurl: ""              # ← only if you're using a project repo (not needed f
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "RNA Translation lab"
+title                    : "Non-canonical Proteome Project Summer School 2026"
 title_separator          : "-"
 header:
   sticky                 : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sonia Chothani"
-description              : "RNA Translation lab"
-repository               : "RNATranslationlab"
+description              : "Non-canonical Proteome Project Summer School 2026"
+repository               : "ncPPSummerSchool"
 teaser                   : #####path
 logo                     : #####path to logo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
