@@ -7,4 +7,6 @@ main:
     url: /agenda/
   - title: Registration
     url: /book/
+  - title: Sponsors
+    url: /sponsors/
 
