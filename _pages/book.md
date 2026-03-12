@@ -18,7 +18,12 @@ permalink: /book/
         
         Marie Brunet  
         marie.brunet@usherbrooke.ca
-        
+
+        <img 
+        src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
+        alt="Dr. Sonia Chothani" 
+        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
+    
         Sonia Chothani 
         Genome Institute of Singapore, A*STAR, Singapore
         sonia_chothani@a-star.edu.sg
