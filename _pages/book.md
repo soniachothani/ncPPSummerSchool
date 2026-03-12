@@ -14,7 +14,7 @@ permalink: /book/
 
         Registration link will be updated here shortly.
 
-        Contact us at mbrunet@ or chothanisp@a-star.edu.sg
+        Contact us at marie.brunet@usherbrooke.ca or sonia_chothani@a-star.edu.sg
     </div>
 
     
