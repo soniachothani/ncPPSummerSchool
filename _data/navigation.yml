@@ -1,7 +1,7 @@
 main:
   - title: Home
     url: /
-  - title: Agenda
+  - title: abc
     url: /agenda/
   - title: Registration
     url: /book/
