@@ -13,12 +13,10 @@ classes: landing
 
   <section class="page-section full-page-layout fade-in">
     <div class="sidebar-image">
-      <img src="{{ '/assets/images/lab_banner.jpg' | relative_url }}" alt="Vertical Sidebar Image" />
+      <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
       <h1>Non-canonical proteome project Summer School 2026</h1>
-      <p>..</p>
-      <a href="/join/" class="cta-button">Join Us</a>
     </div>
   </section>
 </div>
