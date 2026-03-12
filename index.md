@@ -17,6 +17,13 @@ classes: landing
     </div>
     <div class="main-content">
       <h1>Non-canonical proteome project Summer School 2026</h1>
+
+      <img src="{{ '/assets/images/ncpp_logo.png' | relative_url }}" 
+            alt="Logo"
+            style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
+          
+            
+      
     </div>
   </section>
 </div>
