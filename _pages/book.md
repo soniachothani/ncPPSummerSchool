@@ -12,7 +12,7 @@ permalink: /book/
     </div>
     <div class="main-content">   
 
-        Registration link will be updated here shortly.
+        Registration link will be updated here shortly. <br>
 
         Contact us at marie.brunet@usherbrooke.ca or sonia_chothani@a-star.edu.sg
     </div>
