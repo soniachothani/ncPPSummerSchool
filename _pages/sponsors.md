@@ -13,7 +13,9 @@ permalink: /sponsors/
     <div class="main-content">   
      
         
-   <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"> <img src="{{ '/assets/images/transcode_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;">
+   <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;object-fit:cover;object-position:top;"> 
+   
+   <img src="{{ '/assets/images/transcode_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;object-fit:cover;object-position:top;">
 
    
 
