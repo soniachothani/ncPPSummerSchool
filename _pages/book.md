@@ -15,18 +15,20 @@ permalink: /book/
         Registration link will be updated here shortly. <br>
 
         Organizers: <br>
-        
-        Marie Brunet  
-        marie.brunet@usherbrooke.ca
-
+        <img 
+        src="{{ '/assets/images/mb.png' | relative_url }}" 
+        alt="Dr. Marie Brunet" 
+        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
+    
+       
         <img 
         src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
         alt="Dr. Sonia Chothani" 
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
     
-        Sonia Chothani 
-        Genome Institute of Singapore, A*STAR, Singapore
-        sonia_chothani@a-star.edu.sg
+         Marie Brunet          Sonia Chothani <br>
+        Genome Institute of Singapore, A*STAR, Singapore <br>
+        marie.brunet@usherbrooke.ca             sonia_chothani@a-star.edu.sg <br> 
         
     </div>
 
