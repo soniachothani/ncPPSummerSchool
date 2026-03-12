@@ -16,7 +16,7 @@ classes: landing
 
   <section class="page-section full-page-layout fade-in">
     <div class="sidebar-image">
-      <img src="{{ '/assets/images/Lab_banner.png' | relative_url }}" alt="Vertical Sidebar Image" />
+      <img src="{{ '/assets/images/lab_banner.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
       <h1>Laboratory of RNA Translation</h1>
