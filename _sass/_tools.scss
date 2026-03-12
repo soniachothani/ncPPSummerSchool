@@ -1,0 +1,62 @@
+.tool-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* space between images */
+  justify-content: center;
+}
+.tool-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+.image-hover-container {
+  position: relative;
+  width: 300px;  /* increased size */
+  height: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.image-hover-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: 0.3s ease;
+}
+
+.image-hover-container .hover-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* dark overlay */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  text-align: center;
+  padding: 10px;
+  transition: opacity 0.3s ease;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.image-hover-container:hover .hover-text {
+  opacity: 1;
+}
+  .page__content {
+    max-width: none;
+    margin: 0 0 0 0; // top right bottom left
+    padding-left: 0;
+
+  @media (min-width: 768px) {
+    max-width: 1200px; // Desktop width
+    margin: 0 auto;
+  }
+}
+
