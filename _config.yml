@@ -14,13 +14,14 @@ title                    : "Non-canonical Proteome Project Summer School 2026"
 title_separator          : "-"
 header:
   sticky                 : true
+  logo                   : "/assets/images/ncPP_logo.png"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sonia Chothani"
 description              : "Non-canonical Proteome Project Summer School 2026"
 repository               : "ncPPSummerSchool"
 teaser                   : #####path
-logo                     : "/assets/images/ncPP_logo.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+#logo                     : "/assets/images/ncPP_logo.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
