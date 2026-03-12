@@ -13,9 +13,16 @@ permalink: /about/
     <div class="main-content">   
      
         
-     <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"> 
-     <img src="{{ '/assets/images/transcode_logo.png' | relative_url }}" alt="Logo" style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;">
-            
+   <div style="display:flex; gap:20px; flex-wrap:wrap; align-items:center; justify-content:center;">
+  <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" 
+       alt="Logo"
+       style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;">
+
+  <img src="{{ '/assets/images/transcode_logo.png' | relative_url }}" 
+       alt="Logo"
+       style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;">
+</div>
+
     For the past decade, breakthroughs in Ribo-seq and proteogenomics have fundamentally shifted our understanding of how RNA translates. We now know the transcriptome holds a vast, untapped repertoire of previously unannoated (i.e., non-canonical) open reading frames (ORFs). Unlocking this "dark proteome" is the next frontier for life-changing biomarkers and therapeutics. <br><br>
 
     Bridging the Gap: <br>
