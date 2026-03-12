@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Agenda"
+title: "Registration"
 classes:  landing 
-permalink: /agenda/
+permalink: /book/
 ---
 
 
