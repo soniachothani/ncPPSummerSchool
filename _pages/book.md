@@ -12,7 +12,7 @@ permalink: /book/
     </div>
     <div class="main-content">   
 
-        Link to registration will be updated here soon.
+        Registration link will be updated here shortly.
 
         Contact us at mbrunet@ or chothanisp@a-star.edu.sg
     </div>
