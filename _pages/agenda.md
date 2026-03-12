@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Agenda"
+title: "Schedule"
 classes:  landing 
 permalink: /agenda/
 ---
