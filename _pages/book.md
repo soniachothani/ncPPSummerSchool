@@ -14,8 +14,15 @@ permalink: /book/
 
         Registration link will be updated here shortly. <br>
 
-        Contact Marie Brunet / Sonia Chothani for more details. <br>
-        Email: marie.brunet@usherbrooke.ca or sonia_chothani@a-star.edu.sg
+        Organizers: <br>
+        
+        Marie Brunet  
+        marie.brunet@usherbrooke.ca
+        
+        Sonia Chothani 
+        Genome Institute of Singapore, A*STAR, Singapore
+        sonia_chothani@a-star.edu.sg
+        
     </div>
 
     
