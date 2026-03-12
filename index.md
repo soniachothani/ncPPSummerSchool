@@ -7,7 +7,7 @@ classes: landing
 
 <div class="page-wrapper">
   <section class="page-section hero-section fade-in">
-    <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Lab Hero Image" />
+    <img src="{{ '/assets/images/ncPP_logo.png' | relative_url }}" alt="Lab Hero Image" />
     <div class="hero-text">
       <h1>Laboratory of RNA Translation</h1>
       <p>Uncovering the hidden layer of gene expression</p>
@@ -16,7 +16,7 @@ classes: landing
 
   <section class="page-section full-page-layout fade-in">
     <div class="sidebar-image">
-      <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
+      <img src="{{ '/assets/images/Lab_banner.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
       <h1>Laboratory of RNA Translation</h1>
