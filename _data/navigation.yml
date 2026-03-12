@@ -5,4 +5,6 @@ main:
     url: /agenda/
   - title: Registration
     url: /book/
+  - title: Contact us
+    url: /contact/
 
