@@ -10,7 +10,6 @@ permalink: /agenda/
       <img src="{{ '/assets/images/peptides.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">   
-    </div>
 
 
 <img src="{{ '/assets/images/schedule.png' | relative_url }}" />
@@ -21,5 +20,6 @@ S02: Experimental workflows and pre-processing
 S03: Application-catered selection of ORFs for downstream applications
 S04: Proteomic workflows for non-canonical protein identification
 S05: Spectral validation for confident identification
+    </div>
 
 </section>
