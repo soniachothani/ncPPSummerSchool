@@ -6,7 +6,7 @@ plugins:
   - jekyll-include-cache
 
 url: "https://soniachothani.github.io"   # ← your GitHub Pages base URL
-baseurl: "/ncPPSummerSchool"              # ← only if you're using a project repo (not needed for user/organization site)
+baseurl: ""              # ← only if you're using a project repo (not needed for user/organization site)
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
