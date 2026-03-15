@@ -13,6 +13,7 @@ permalink: /sponsors/
     <div class="main-content">   
     <p style="font-size: 20px; font-weight: bold;">Principal</p>
 <p style="font-size: 20px; font-weight: bold;">Executive</p>
+        <img src="{{ '/assets/images/immagina_logo.webp' | relative_url }}" alt="Sponsor Image" />
 <p style="font-size: 20px; font-weight: bold;">Supporting</p>
 <p style="font-size: 20px; font-weight: bold;">Friends</p>
      
