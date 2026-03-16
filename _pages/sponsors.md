@@ -16,7 +16,8 @@ permalink: /sponsors/
         <img src="{{ '/assets/images/immagina_logo.webp' | relative_url }}" alt="Sponsor Image" width="200" />
 <p style="font-size: 20px; font-weight: bold;">Supporting</p>
 <p style="font-size: 20px; font-weight: bold;">Friends</p>
-     
+             <img src="{{ '/assets/images/NVGAIT.png' | relative_url }}" alt="Sponsor Image" width="80" />
+
     </div>
 
     
