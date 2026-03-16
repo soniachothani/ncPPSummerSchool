@@ -13,10 +13,10 @@ permalink: /sponsors/
     <div class="main-content">   
     <p style="font-size: 20px; font-weight: bold;">Principal</p>
 <p style="font-size: 20px; font-weight: bold;">Executive</p>
-        <img src="{{ '/assets/images/immagina_logo.webp' | relative_url }}" alt="Sponsor Image" width="200" />
+        <img src="{{ '/assets/images/immagina_logo.webp' | relative_url }}" alt="Sponsor Image" width="300" />
 <p style="font-size: 20px; font-weight: bold;">Supporting</p>
 <p style="font-size: 20px; font-weight: bold;">Friends</p>
-             <img src="{{ '/assets/images/NVGAIT.png' | relative_url }}" alt="Sponsor Image" width="80" />
+             <img src="{{ '/assets/images/NVGAIT.png' | relative_url }}" alt="Sponsor Image" width="100" />
 
     </div>
 
