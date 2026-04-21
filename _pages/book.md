@@ -25,7 +25,7 @@ permalink: /book/
     <hr>
 
 <iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56?embedded=true" 
-        style="width: 100%; height: 1200px !important; min-height: 1200px;" 
+        style="width: 100%; height: 600px !important; min-height: 600px;" 
         frameborder="0" 
         marginheight="0" 
         marginwidth="0">
