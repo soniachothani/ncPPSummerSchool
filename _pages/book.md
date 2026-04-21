@@ -17,14 +17,10 @@ permalink: /book/
     
     <iframe src="https://forms.gle/RCpYfv1wexkyxDGS7" 
             width="100%" 
-            height="800" 
+            height="1200" 
             frameborder="0" 
             marginheight="0" 
             marginwidth="0">Loading…</iframe>
-
-   
-        Registration link will be updated here shortly. <br>
-
          
 <p><strong>Organizers and Contact info:</strong></p>
             
@@ -56,6 +52,11 @@ permalink: /book/
             </tr>
             </table>
 
+
+        <br>
+        <br>
+        <br>
+        <br>
         
 
         
