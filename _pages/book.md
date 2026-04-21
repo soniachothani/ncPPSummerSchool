@@ -13,6 +13,9 @@ permalink: /book/
     <div class="main-content">   
 <br>
         <br>
+           <br>
+           <br>
+           <br>
     <h2>Abstract Submission for registration</h2>
     <p>Please fill out the form below to submit your abstract for consideration.</p>
        <br>
