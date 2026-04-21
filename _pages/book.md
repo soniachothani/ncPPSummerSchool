@@ -12,6 +12,17 @@ permalink: /book/
     </div>
     <div class="main-content">   
 
+    <h2>Abstract Submission for registration</h2>
+    <p>Please fill out the form below to submit your abstract for consideration.</p>
+    
+    <iframe src="https://forms.gle/RCpYfv1wexkyxDGS7" 
+            width="100%" 
+            height="800" 
+            frameborder="0" 
+            marginheight="0" 
+            marginwidth="0">Loading…</iframe>
+
+   
         Registration link will be updated here shortly. <br>
 
          
