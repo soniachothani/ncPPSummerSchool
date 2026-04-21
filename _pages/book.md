@@ -21,13 +21,12 @@ permalink: /book/
           style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
           Open Form in New Tab ↗
        </a>
-    </p>
     
     <hr>
 
     <iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56" 
             width="100%" 
-            height="1200" 
+            height="2000" 
             frameborder="0" 
             marginheight="0" 
             marginwidth="0">Loading…</iframe>
