@@ -11,6 +11,9 @@ permalink: /about/
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">   
+
+
+        
     For the past decade, breakthroughs in Ribo-seq and proteogenomics have fundamentally shifted our understanding of how RNA translates. We now know the transcriptome holds a vast, untapped repertoire of previously unannoated (i.e., non-canonical) open reading frames (ORFs). Unlocking this "dark proteome" is the next frontier for life-changing biomarkers and therapeutics. <br><br>
 
     Bridging the Gap: <br>
@@ -22,13 +25,6 @@ permalink: /about/
 
     Through world-class lectures and hands-on training, we are catalyzing the next generation of fundamental discoveries and translational outputs. <br><br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
     </div>
 
