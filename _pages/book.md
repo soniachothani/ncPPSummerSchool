@@ -14,43 +14,26 @@ permalink: /book/
 
     <h2>Abstract Submission for registration</h2>
     <p>Please fill out the form below to submit your abstract for consideration.</p>
+       <br>
+       <a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+          Open Form in New Tab ↗
+       </a>
+    </p>
     
-    <iframe src="https://forms.gle/RCpYfv1wexkyxDGS7" 
+    <hr>
+
+    <iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" 
             width="100%" 
-            height="1200" 
+            height="800" 
             frameborder="0" 
             marginheight="0" 
             marginwidth="0">Loading…</iframe>
-         
-<p><strong>Organizers and Contact info:</strong></p>
-            
-            <table>
-            <tr>
-            <td align="center">
-            
-            <img src="{{ '/assets/images/mb.jpg' | relative_url }}" 
-            alt="Dr. Marie Brunet"
-            style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
-            
-            <strong>Marie Brunet</strong><br>
-            Sherbrooke University, Canada <br>
-            marie.brunet@usherbrooke.ca
-            
-            </td>
-            
-            <td align="center">
-            
-            <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
-            alt="Dr. Sonia Chothani"
-            style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:80%;"><br>
-            
-            <strong>Sonia Chothani</strong><br>
-            Genome Institute of Singapore, A*STAR<br>
-            sonia_chothani@a-star.edu.sg
-            
-            </td>
-            </tr>
-            </table>
+
+    <hr>
+
 
 
         <br>
