@@ -26,7 +26,7 @@ permalink: /book/
 
     <iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56" 
             width="100%" 
-            height="2000" 
+            height="80%" 
             frameborder="0" 
             marginheight="0" 
             marginwidth="0">Loading…</iframe>
