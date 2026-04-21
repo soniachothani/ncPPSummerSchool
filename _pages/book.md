@@ -24,12 +24,14 @@ permalink: /book/
     
     <hr>
 
-    <iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56" 
-            width="100%" 
-            height="80%" 
-            frameborder="0" 
-            marginheight="0" 
-            marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56?embedded=true" 
+        style="width: 100%; height: 1200px !important; min-height: 1200px;" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0">
+        Loading…
+</iframe>
+
 
     <hr>
 
