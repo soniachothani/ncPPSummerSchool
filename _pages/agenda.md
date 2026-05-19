@@ -62,7 +62,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eric Deutsch</strong><br>
       <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle</span>
@@ -70,7 +70,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Wu Wei</strong><br>
       <span style="font-size: 0.62rem; color: #666;">A*STAR Singapore</span>
@@ -78,7 +78,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Marie Brunet</strong><br>
       <span style="font-size: 0.62rem; color: #666;">Sherbrooke University, Canada</span>
@@ -95,7 +95,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="{{ '/assets/images/MSB.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/MSB.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Michal Bassani-Sternberg</strong><br>
       <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
