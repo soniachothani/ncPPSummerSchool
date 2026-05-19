@@ -24,8 +24,7 @@ S05: Spectral validation for confident identification <br>
 
 <h3 style="margin-bottom: 8px;">Confirmed speakers</h3>
 
-<div style="width: 100%; max-width: 100%; overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; padding-bottom: 10px; box-sizing: border-box;">
-  <div style="display: flex; flex-wrap: nowrap; gap: 10px; margin-top: 8px; margin-bottom: 15px; align-items: flex-start; width: max-content;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
      
 <div style="flex: 0 0 92px; width: 92px; text-align: center;">
      <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
@@ -93,7 +92,6 @@ S05: Spectral validation for confident identification <br>
     </div>
   </div>
 
-</div>
 </div>
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
