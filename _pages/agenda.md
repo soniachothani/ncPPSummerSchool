@@ -58,7 +58,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/WW.jpg' | relative_url }}" alt="Wu Wei" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
     <div style="font-size: 0.9rem; line-height: 1.3;">
       <strong>Wu Wei</strong><br>
       <span style="font-size: 0.8rem; color: #666;">A*STAR Singapore</span>
