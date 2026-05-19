@@ -38,7 +38,7 @@ S05: Spectral validation for confident identification <br>
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start;">
 
   <div style="width: 100px; text-align: center;">
-    <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eivind Valen</strong><br>
       <span style="font-size: 0.62rem; color: #666;">University of Oslo</span>
