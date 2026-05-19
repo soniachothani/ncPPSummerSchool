@@ -11,20 +11,8 @@ permalink: /agenda/
     </div>
     <div class="main-content">   
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="height: clamp(20px, 6vw, 80px);"></div>
+
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
 S02: Experimental workflows and pre-processing <br>
