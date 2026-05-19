@@ -9,7 +9,7 @@ permalink: /agenda/
     <div class="sidebar-image">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
-    <div class="main-content" style="padding-top: 160px !important; margin-top: 0 !important;">
+    <div class="main-content" style="padding-top: 240px !important; margin-top: 0 !important;">
         
 
 Session titles (subject to change)<br>
