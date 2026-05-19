@@ -43,7 +43,7 @@ S05: Spectral validation for confident identification <br>
 
 
   <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/SC.jpg' | relative_url }}" alt="Sonia Chothani" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
     <div style="font-size: 0.9rem; line-height: 1.3;">
       <strong>Eivind Valen</strong><br>
       <span style="font-size: 0.8rem; color: #666;">A*STAR, Singapore</span>
@@ -90,7 +90,7 @@ S05: Spectral validation for confident identification <br>
   </div>
 
   <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/MBS.jpg' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <img src="{{ '/assets/images/MBS.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
     <div style="font-size: 0.9rem; line-height: 1.3;">
       <strong>Michal Bassani-Sternberg</strong><br>
       <span style="font-size: 0.8rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span>
