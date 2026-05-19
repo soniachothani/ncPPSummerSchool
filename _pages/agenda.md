@@ -41,6 +41,15 @@ S05: Spectral validation for confident identification <br>
     </div>
   </div>
 
+
+  <div style="width: 120px; text-align: center;">
+    <img src="{{ '/assets/images/SC.jpg' | relative_url }}" alt="Sonia Chothani" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Eivind Valen</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">A*STAR, Singapore</span>
+    </div>
+  </div>
+
   <div style="width: 120px; text-align: center;">
     <img src="{{ '/assets/images/LM.jpg' | relative_url }}" alt="Lennart Martens" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
     <div style="font-size: 0.9rem; line-height: 1.3;">
@@ -64,7 +73,14 @@ S05: Spectral validation for confident identification <br>
       <span style="font-size: 0.8rem; color: #666;">A*STAR Singapore</span>
     </div>
   </div>
-
+  <div style="width: 120px; text-align: center;">
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Eivind Valen</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">Sherbrooke University, Canada</span>
+    </div>
+  </div>
+  
   <div style="width: 120px; text-align: center;">
     <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
     <div style="font-size: 0.9rem; line-height: 1.3;">
