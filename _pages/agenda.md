@@ -29,78 +29,77 @@ S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
 <br>
 
-<h3>Confirmed speakers</h3>
+<h3 style="margin-bottom: 8px;">Confirmed speakers</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-top: 20px; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start;">
 
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eivind Valen</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">University of Oslo</span>
+      <span style="font-size: 0.62rem; color: #666;">University of Oslo</span>
     </div>
   </div>
 
-
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Sonia Chothani</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">A*STAR, Singapore</span>
+      <span style="font-size: 0.62rem; color: #666;">A*STAR, Singapore</span>
     </div>
   </div>
 
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/LM.jpg' | relative_url }}" alt="Lennart Martens" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/LM.jpg' | relative_url }}" alt="Lennart Martens" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Lennart Martens</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">Ghent University & VIB</span>
+      <span style="font-size: 0.62rem; color: #666;">Ghent University & VIB</span>
     </div>
   </div>
 
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eric Deutsch</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">Institute for Systems Biology, Seattle</span>
+      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle</span>
     </div>
   </div>
 
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Wu Wei</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">A*STAR Singapore</span>
-    </div>
-  </div>
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
-      <strong>Eivind Valen</strong><br>
-      <span style="font-size: 0.8rem; color: #666;">Sherbrooke University, Canada</span>
-    </div>
-  </div>
-  
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
-      <strong>Yardena Samuels</strong><br>
-        <bold> Joint session speaker ncPP-HUPO HIPP</bold><br>
-      <span style="font-size: 0.8rem; color: #666;">Weizmann Institute of Science</span>
+      <span style="font-size: 0.62rem; color: #666;">A*STAR Singapore</span>
     </div>
   </div>
 
-  <div style="width: 120px; text-align: center;">
-    <img src="{{ '/assets/images/MBS.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
-    <div style="font-size: 0.9rem; line-height: 1.3;">
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Marie Brunet</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Sherbrooke University, Canada</span>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Yardena Samuels</strong><br>
+      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Weizmann Institute of Science</span>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="{{ '/assets/images/MBS.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Michal Bassani-Sternberg</strong><br>
-                <bold> Joint session speaker ncPP-HUPO HIPP</bold><br>
-      <span style="font-size: 0.8rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span>
+      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span>
     </div>
   </div>
 
 </div>
-
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
 
