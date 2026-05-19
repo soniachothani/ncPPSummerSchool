@@ -14,13 +14,6 @@ permalink: /agenda/
 
      <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow-x: hidden !important; max-width: 100%; box-sizing: border-box;">
    
-Session titles (subject to change)<br>
-S01: Foundation of RNA translation & Ribo-seq <br>
-S02: Experimental workflows and pre-processing <br>
-S03: Application-catered selection of ORFs for downstream applications <br>
-S04: Proteomic workflows for non-canonical protein identification <br>
-S05: Spectral validation for confident identification <br>
-<br>
 
 <h3 style="margin-bottom: 8px;">Confirmed speakers</h3>
 
@@ -94,6 +87,14 @@ S05: Spectral validation for confident identification <br>
 
 
 </div>
+Session titles (subject to change)<br>
+S01: Foundation of RNA translation & Ribo-seq <br>
+S02: Experimental workflows and pre-processing <br>
+S03: Application-catered selection of ORFs for downstream applications <br>
+S04: Proteomic workflows for non-canonical protein identification <br>
+S05: Spectral validation for confident identification <br>
+<br>
+
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
 
