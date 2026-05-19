@@ -5,7 +5,8 @@ classes:  landing
 permalink: /agenda/
 ---
 
-<section class="page-section full-page-layout fade-in">
+<section class="page-section fade-in" style="min-height: auto !important; height: auto !important; overflow: visible !important; align-items: flex-start !important;">
+
     <div class="sidebar-image">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
