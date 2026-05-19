@@ -5,17 +5,15 @@ classes:  landing
 permalink: /book/
 ---
 
+<section class="page-section full-page-layout fade-in" 
+  style="height: auto !important; min-height: 100vh !important; overflow: visible !important; align-items: flex-start !important;">
 
-<section class="page-section full-page-layout fade-in">
-    <div class="sidebar-image">
+    <div class="sidebar-image" style="align-self: flex-start; padding-top: 0 !important; margin-top: 0 !important;">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
-    <div class="main-content">   
-<br>
-        <br>
-           <br>
-           <br>
-           <br>
+
+    <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
+
     <h2>Abstract Submission for registration</h2>
     <p>Please fill out the form below to submit your abstract for consideration.</p>
        <br>
