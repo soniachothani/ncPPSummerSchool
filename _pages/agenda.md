@@ -6,7 +6,12 @@ permalink: /agenda/
 ---
 
 <section class="page-section fade-in" style="min-height: auto !important; height: auto !important; overflow: visible !important; align-items: flex-start !important;">
-        
+
+    <div class="sidebar-image">
+      <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
+    </div>
+
+    <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;"> 
 
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
