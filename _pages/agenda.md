@@ -29,15 +29,41 @@ S03: Application-catered selection of ORFs for downstream applications <br>
 S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
 
-Confirmed speakers
-Eivind Valen, University of Oslo<br>
-Lennart Martens, Ghent University & VIB<br>
-Eric Deutsch, Institute for Systems Biology, Seattle<br>
-Wu Wei, A*STAR Singapore<br>
+<h3>Confirmed speakers</h3>
 
-Yardena Samuels, Weizmann Institute of Science <br>
-Michal Bassani-Sternberg, Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne<br>
+<div class="speaker-grid">
 
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Eivind Valen" />
+    <p>Eivind Valen<br><span>University of Oslo</span></p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Lennart Martens" />
+    <p>Lennart Martens<br><span>Ghent University & VIB</span></p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Eric Deutsch" />
+    <p>Eric Deutsch<br><span>Institute for Systems Biology, Seattle</span></p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Wu Wei" />
+    <p>Wu Wei<br><span>A*STAR Singapore</span></p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Yardena Samuels" />
+    <p>Yardena Samuels<br><span>Weizmann Institute of Science</span></p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Michal Bassani-Sternberg" />
+    <p>Michal Bassani-Sternberg<br><span>Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span></p>
+  </div>
+
+</div>
 
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
