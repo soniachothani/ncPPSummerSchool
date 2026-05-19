@@ -11,6 +11,7 @@ permalink: /agenda/
     </div>
     <div class="main-content">   
 
+<br><br>
 <br>
 <br>
 <br>
@@ -26,13 +27,14 @@ S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
 
 Confirmed speakers
-Eivind Valen, University of Oslo\\
-Lennart Martens, Ghent University & VIB\\
-Eric Deutsch, Institute for Systems Biology, Seattle\\
-Wu Wei, A*STAR Singapore\\
+Eivind Valen, University of Oslo<br>
+Lennart Martens, Ghent University & VIB<br>
+Eric Deutsch, Institute for Systems Biology, Seattle<br>
+Wu Wei, A*STAR Singapore<br>
 
-Yardena Samuels, Weizmann Institute of Science \\
-Michal Bassani-Sternberg, Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne\\
+Yardena Samuels, Weizmann Institute of Science <br>
+Michal Bassani-Sternberg, Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne<br>
+
 
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
