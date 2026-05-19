@@ -6,12 +6,14 @@ permalink: /about/
 ---
 
 
-<section class="page-section full-page-layout fade-in">
-    <div class="sidebar-image">
+<section class="page-section full-page-layout fade-in" 
+  style="height: auto !important; min-height: 100vh !important; overflow: visible !important; align-items: flex-start !important;">
+
+    <div class="sidebar-image" style="align-self: flex-start; padding-top: 0 !important; margin-top: 0 !important;">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
-    <div class="main-content">   
 
+    <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
         
     For the past decade, breakthroughs in Ribo-seq and proteogenomics have fundamentally shifted our understanding of how RNA translates. We now know the transcriptome holds a vast, untapped repertoire of previously unannoated (i.e., non-canonical) open reading frames (ORFs). Unlocking this "dark proteome" is the next frontier for life-changing biomarkers and therapeutics. <br><br>
