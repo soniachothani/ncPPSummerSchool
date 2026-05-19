@@ -29,38 +29,57 @@ S03: Application-catered selection of ORFs for downstream applications <br>
 S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
 
+<br>
 <h3>Confirmed speakers</h3>
 
-<div class="speaker-grid">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-top: 20px; margin-bottom: 40px;">
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Eivind Valen" />
-    <p>Eivind Valen<br><span>University of Oslo</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Eivind Valen" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Eivind Valen</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">University of Oslo</span>
+    </div>
   </div>
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Lennart Martens" />
-    <p>Lennart Martens<br><span>Ghent University & VIB</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Lennart Martens" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Lennart Martens</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">Ghent University & VIB</span>
+    </div>
   </div>
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Eric Deutsch" />
-    <p>Eric Deutsch<br><span>Institute for Systems Biology, Seattle</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Eric Deutsch" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Eric Deutsch</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">Institute for Systems Biology, Seattle</span>
+    </div>
   </div>
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Wu Wei" />
-    <p>Wu Wei<br><span>A*STAR Singapore</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Wu Wei" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Wu Wei</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">A*STAR Singapore</span>
+    </div>
   </div>
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Yardena Samuels" />
-    <p>Yardena Samuels<br><span>Weizmann Institute of Science</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Yardena Samuels" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Yardena Samuels</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">Weizmann Institute of Science</span>
+    </div>
   </div>
 
-  <div class="speaker-card">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Michal Bassani-Sternberg" />
-    <p>Michal Bassani-Sternberg<br><span>Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span></p>
+  <div style="width: 160px; text-align: center;">
+    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 10px auto;" />
+    <div style="font-size: 0.9rem; line-height: 1.3;">
+      <strong>Michal Bassani-Sternberg</strong><br>
+      <span style="font-size: 0.8rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span>
+    </div>
   </div>
 
 </div>
