@@ -11,7 +11,10 @@ permalink: /agenda/
     </div>
     <div class="main-content">   
 
-<br><br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -39,7 +42,6 @@ Michal Bassani-Sternberg, Ludwig Institute for Cancer Research / UNIL-CHUV, Laus
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
 
-<br>
 <br>
 
     </div>
