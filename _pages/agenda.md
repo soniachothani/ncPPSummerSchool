@@ -5,14 +5,15 @@ classes:  landing
 permalink: /agenda/
 ---
 
-<section class="page-section fade-in" style="min-height: auto !important; height: auto !important; overflow: visible !important; align-items: flex-start !important;">
+<section class="page-section full-page-layout fade-in" 
+  style="height: auto !important; min-height: 100vh !important; overflow: visible !important; align-items: flex-start !important;">
 
-    <div class="sidebar-image">
+    <div class="sidebar-image" style="align-self: flex-start; padding-top: 0 !important; margin-top: 0 !important;">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
 
-    <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;"> 
-
+    <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
+    
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
 S02: Experimental workflows and pre-processing <br>
