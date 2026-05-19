@@ -24,8 +24,8 @@ S05: Spectral validation for confident identification <br>
 
 <h3 style="margin-bottom: 8px;">Confirmed speakers</h3>
 
-<div style="display: flex; flex-wrap: nowrap; gap: 8px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start; overflow-x: auto; overflow-y: visible; max-width: 100%; padding-bottom: 8px;">
-  
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start; overflow-x: scroll; overflow-y: visible; max-width: 100%; padding-bottom: 10px; -webkit-overflow-scrolling: touch;">
+    
 <div style="flex: 0 0 92px; width: 92px; text-align: center;">
      <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
