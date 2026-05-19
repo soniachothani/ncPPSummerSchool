@@ -34,32 +34,32 @@ S05: Spectral validation for confident identification <br>
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Eivind Valen" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Eivind Valen" />
     <p>Eivind Valen<br><span>University of Oslo</span></p>
   </div>
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Lennart Martens" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Lennart Martens" />
     <p>Lennart Martens<br><span>Ghent University & VIB</span></p>
   </div>
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Eric Deutsch" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Eric Deutsch" />
     <p>Eric Deutsch<br><span>Institute for Systems Biology, Seattle</span></p>
   </div>
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Wu Wei" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Wu Wei" />
     <p>Wu Wei<br><span>A*STAR Singapore</span></p>
   </div>
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Yardena Samuels" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Yardena Samuels" />
     <p>Yardena Samuels<br><span>Weizmann Institute of Science</span></p>
   </div>
 
   <div class="speaker-card">
-    <img src="{{ '/assets/images/image.png' | relative_url }}" alt="Michal Bassani-Sternberg" />
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Michal Bassani-Sternberg" />
     <p>Michal Bassani-Sternberg<br><span>Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span></p>
   </div>
 
