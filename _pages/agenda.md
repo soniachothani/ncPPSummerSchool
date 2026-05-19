@@ -9,9 +9,8 @@ permalink: /agenda/
     <div class="sidebar-image">
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
-    <div class="main-content">   
-
-<div style="height: clamp(20px, 6vw, 80px);"></div>
+    <div class="main-content" style="padding-top: clamp(20px, 5vw, 70px);">   
+        
 
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
