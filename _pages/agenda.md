@@ -23,7 +23,15 @@ permalink: /agenda/
      <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eivind Valen</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">University of Oslo</span>
+      <span style="font-size: 0.62rem; color: #666;">University of Oslo, Norway </span>
+    </div>
+  </div>
+
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+     <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Zhi Xie</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
     </div>
   </div>
 
