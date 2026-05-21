@@ -28,12 +28,22 @@ permalink: /agenda/
   </div>
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-     <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Zhi Xie</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
+      <strong>Eric Deutsch</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle, USA</span>
     </div>
   </div>
+  
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Jenn Abelin</strong><br>
+      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute, Boston, USA</span>
+    </div>
+  </div>
+
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/LM.jpg' | relative_url }}" alt="Lennart Martens" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
@@ -43,28 +53,20 @@ permalink: /agenda/
     </div>
   </div>
 
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Eric Deutsch</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle, USA</span>
+      <strong>Marie Brunet</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Sherbrooke University, Canada</span>
     </div>
   </div>
-
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+  
+ <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/MSB.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Wu Wei</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Singapore Immunology Network, A*STAR, Singapore</span>
-    </div>
-  </div>
-
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Jenn Abelin</strong><br>
+      <strong>Michal Bassani-Sternberg</strong><br>
       <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute, Boston, USA</span>
+      <span style="font-size: 0.62rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne, EU </span>
     </div>
   </div>
 
@@ -76,14 +78,15 @@ permalink: /agenda/
     </div>
   </div>
   
+
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Marie Brunet</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Sherbrooke University, Canada</span>
+      <strong>Wu Wei</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Singapore Immunology Network, A*STAR, Singapore</span>
     </div>
   </div>
-
+  
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
@@ -93,12 +96,12 @@ permalink: /agenda/
     </div>
   </div>
 
+
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/MSB.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+     <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Michal Bassani-Sternberg</strong><br>
-      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne, EU </span>
+      <strong>Zhi Xie</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
     </div>
   </div>
 
