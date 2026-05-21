@@ -31,7 +31,7 @@ permalink: /agenda/
     <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Sonia Chothani</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">A*STAR, Singapore</span>
+      <span style="font-size: 0.62rem; color: #666;">Genome Institute of Singapore, A*STAR, Singapore</span>
     </div>
   </div>
 
@@ -55,7 +55,7 @@ permalink: /agenda/
     <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Wu Wei</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">A*STAR Singapore</span>
+      <span style="font-size: 0.62rem; color: #666;">Singapore Immunology Network, A*STAR, Singapore</span>
     </div>
   </div>
 
