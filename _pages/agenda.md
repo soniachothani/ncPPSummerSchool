@@ -36,18 +36,10 @@ permalink: /agenda/
   </div>
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Sonia Chothani</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Genome Institute of Singapore, A*STAR, Singapore</span>
-    </div>
-  </div>
-
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/LM.jpg' | relative_url }}" alt="Lennart Martens" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Lennart Martens</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Ghent University & VIB</span>
+      <span style="font-size: 0.62rem; color: #666;">Ghent University & VIB, Belgium</span>
     </div>
   </div>
 
@@ -55,7 +47,7 @@ permalink: /agenda/
     <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Eric Deutsch</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle</span>
+      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle, USA</span>
     </div>
   </div>
 
@@ -68,6 +60,23 @@ permalink: /agenda/
   </div>
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Jenn Abelin</strong><br>
+      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute, Boston, USA</span>
+    </div>
+  </div>
+
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/Sonia.webp' | relative_url }}" alt="Sonia Chothani" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Sonia Chothani</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Genome Institute of Singapore, A*STAR, Singapore</span>
+    </div>
+  </div>
+  
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/mb.jpg' | relative_url }}" alt="Marie Brunet" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Marie Brunet</strong><br>
@@ -76,20 +85,11 @@ permalink: /agenda/
   </div>
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Jenn Abelin</strong><br>
-      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute</span>
-    </div>
-  </div>
-
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Yardena Samuels</strong><br>
       <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Weizmann Institute of Science</span>
+      <span style="font-size: 0.62rem; color: #666;">Weizmann Institute of Science, Israel</span>
     </div>
   </div>
 
@@ -98,7 +98,7 @@ permalink: /agenda/
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Michal Bassani-Sternberg</strong><br>
       <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne</span>
+      <span style="font-size: 0.62rem; color: #666;">Ludwig Institute for Cancer Research / UNIL-CHUV, Lausanne, EU </span>
     </div>
   </div>
 
