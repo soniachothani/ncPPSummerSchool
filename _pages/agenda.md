@@ -87,8 +87,12 @@ permalink: /agenda/
       <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
     </div>
   </div>
-<br>
+</div>
+
 <h4 style="margin-bottom: 8px;">Organizers</h4>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 8px; margin-bottom: 25px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
+
 
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
