@@ -39,7 +39,6 @@ permalink: /agenda/
     <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Jenn Abelin</strong><br>
-      <strong style="font-size: 0.56rem;">Joint session speaker ncPP-HUPO HIPP</strong><br>
       <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute, Boston, USA</span>
     </div>
   </div>
