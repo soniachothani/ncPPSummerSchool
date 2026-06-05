@@ -15,7 +15,7 @@ permalink: /agenda/
      <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow-x: hidden !important; max-width: 100%; box-sizing: border-box;">
    
 
-<h3 style="margin-bottom: 8px;">Confirmed speakers</h3>
+<h3 style="margin-top: 0; margin-bottom: 4px;">Confirmed speakers</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 8px; margin-bottom: 0px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
   
@@ -89,7 +89,7 @@ permalink: /agenda/
   </div>
 </div>
 
-<h4 style="margin-bottom: 8px;">Organizers</h4>
+<h4 style="margin-top: 0; margin-bottom: 4px;">Organizers</h4>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 0px; margin-bottom: 25px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
 
