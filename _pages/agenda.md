@@ -18,14 +18,7 @@ permalink: /agenda/
 <h3 style="margin-top: 0; margin-bottom: 4px;">Confirmed speakers</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 8px; margin-bottom: 0px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
-  
-<div style="flex: 0 0 92px; width: 92px; text-align: center;">
-     <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Eivind Valen</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">University of Oslo, Norway </span>
-    </div>
-  </div>
+
  
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
@@ -63,6 +56,31 @@ permalink: /agenda/
       <span style="font-size: 0.62rem; color: #666;">Ghent University & VIB, Belgium</span>
     </div>
   </div>
+
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+     <img src="{{ '/assets/images/EV.jpg' | relative_url }}" alt="Eivind Valen" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Eivind Valen</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">University of Oslo, Norway </span>
+    </div>
+  </div>
+
+   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Wu Wei</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Singapore Immunology Network, A*STAR, Singapore</span>
+    </div>
+  </div>
+
+  
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+     <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Zhi Xie</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
+    </div>
+  </div>
   
  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/MSB.webp' | relative_url }}" alt="Michal Bassani-Sternberg" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
@@ -75,14 +93,6 @@ permalink: /agenda/
   
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/WW.jpeg' | relative_url }}" alt="Wu Wei" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Wu Wei</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Singapore Immunology Network, A*STAR, Singapore</span>
-    </div>
-  </div>
-  
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/YS.jpg' | relative_url }}" alt="Yardena Samuels" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Yardena Samuels</strong><br>
@@ -92,13 +102,6 @@ permalink: /agenda/
   </div>
 
 
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-     <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Zhi Xie</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
-    </div>
-  </div>
 </div>
 
 <h4 style="margin-top: 0; margin-bottom: 4px;">Organizers</h4>
