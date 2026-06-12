@@ -19,11 +19,14 @@ permalink: /book/
 
    <i> For your convenience, we are offering registration options with or without accommodations</i>
     Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.<br><br>
+
+<div style="font-size: 0.9em; line-height: 1.5;">
 Important Information Regarding Accommodations<br>
 - Room Sharing & Occupancy: Accommodation rates are based on double occupancy. All rooms are Twin Rooms (two separate beds). <br>
 - Roommate Pairing: Guests will be paired with a roommate of the same gender.<br>
 - Preferred Roommates: If you have already identified a preferred roommate, please indicate their full name in the designated field during registration.<br>
 - Please note that breakfast is not included in the standard registration fee.<br>
+</div>
 
 <h3>Registration Fees</h3>
 
@@ -32,7 +35,6 @@ Important Information Regarding Accommodations<br>
     <thead>
       <tr style="background-color: #f2f2f2;">
         <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Registration Type</th>
-        <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Includes</th>
         <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Students / Post-docs</th>
         <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">PI</th>
         <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Industry</th>
@@ -40,15 +42,13 @@ Important Information Regarding Accommodations<br>
     </thead>
     <tbody>
       <tr>
-        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, without accommodation</td>
-        <td style="border: 1px solid #ccc; padding: 10px;">Tea breaks and lunch</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, includes tea breaks and lunch, without accommodation</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 200</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 300</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 500</td>
       </tr>
       <tr>
-        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, with twin-sharing accommodation</td>
-        <td style="border: 1px solid #ccc; padding: 10px;">Tea breaks and lunch</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, includes tea breaks and lunch, with twin-sharing accommodation</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 350</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 450</td>
         <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 800</td>
