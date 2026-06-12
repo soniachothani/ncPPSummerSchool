@@ -26,15 +26,7 @@ permalink: /agenda/
       <span style="font-size: 0.62rem; color: #666;">University of Oslo, Norway </span>
     </div>
   </div>
-
-  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
-    <div style="font-size: 0.68rem; line-height: 1.15;">
-      <strong>Eric Deutsch</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle, USA</span>
-    </div>
-  </div>
-  
+ 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
     <img src="{{ '/assets/images/JA.jpg' | relative_url }}" alt="Jennifer Abelin" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
@@ -42,6 +34,26 @@ permalink: /agenda/
       <span style="font-size: 0.62rem; color: #666;">BROAD institute and Dana-Farber Cancer Institute, Boston, USA</span>
     </div>
   </div>
+
+    <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/PB.jpg' | relative_url }}" alt="Pavel Baranov" style="width: 85px; height: 85px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Pavel Baranov</strong><br>
+      <strong>The EMBO Keynote Lecture </strong><br>
+      <span style="font-size: 0.62rem; color: #666;">University College Cork, Ireland</span>
+    </div>
+  </div>
+
+
+  
+  <div style="flex: 0 0 92px; width: 92px; text-align: center;">
+    <img src="{{ '/assets/images/ED.jpg' | relative_url }}" alt="Eric Deutsch" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <div style="font-size: 0.68rem; line-height: 1.15;">
+      <strong>Eric Deutsch</strong><br>
+      <span style="font-size: 0.62rem; color: #666;">Institute for Systems Biology, Seattle, USA</span>
+    </div>
+  </div>
+ 
 
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
