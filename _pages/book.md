@@ -25,6 +25,11 @@ Roommate Pairing: Guests will be paired with a roommate of the same gender.
 Preferred Roommates: If you have already identified a preferred roommate, please indicate their full name in the designated field during registration.
 Please note that breakfast is not included in the standard registration fee.
 
+| Registration Type | Includes | Students / Post-docs | PI | Industry |
+|---|---|---:|---:|---:|
+| Full registration, without accommodation | Tea breaks and lunch | USD 200 | USD 300 | USD 500 |
+| Full registration, with twin-sharing accommodation | Tea breaks and lunch | USD 350 | USD 450 | USD 800 |
+
        <br>
        <a href="https://forms.gle/TJ8jBXiRBrpgeSk56" 
           target="_blank" 
