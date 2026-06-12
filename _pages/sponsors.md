@@ -16,10 +16,10 @@ permalink: /sponsors/
     <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
 
-    <p style="font-size: 20px; font-weight: bold;">Principal</p>
 <p style="font-size: 20px; font-weight: bold;">Executive</p>
         <img src="{{ '/assets/images/immagina_logo.webp' | relative_url }}" alt="Sponsor Image" width="300" />
-<p style="font-size: 20px; font-weight: bold;">Supporting</p>
+<p style="font-size: 20px; font-weight: bold;">Keynote Lecture support</p>
+             <img src="{{ '/assets/images/EMBO_logo-primary_black-digital.svg' | relative_url }}" alt="Sponsor Image" width="100" />
 <p style="font-size: 20px; font-weight: bold;">Friends</p>
              <img src="{{ '/assets/images/NVGAIT.png' | relative_url }}" alt="Sponsor Image" width="100" />
 
