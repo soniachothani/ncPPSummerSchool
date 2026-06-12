@@ -28,7 +28,7 @@ permalink: /book/
       <tr style="background-color: #f2f2f2;">
         <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Registration Type</th>
         <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Students / Post-docs</th>
-        <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">PI</th>
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">PI/Faculty</th>
         <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Industry</th>
       </tr>
     </thead>
