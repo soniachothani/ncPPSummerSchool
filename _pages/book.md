@@ -18,7 +18,7 @@ permalink: /book/
     <p>Please fill out the form below to submit your abstract for consideration. Abstracts will be considered as and when submitted. Seats are limited. </p>
 
    <i> For your convenience, we are offering registration options with or without accommodations</i>
-    Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.<br><br>
+    Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.
 
 <h4>Registration Fees</h4>
 
@@ -48,22 +48,23 @@ permalink: /book/
     </tbody>
   </table>
 </div>
-       <br>
-       <a href="https://forms.gle/TJ8jBXiRBrpgeSk56" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-          Open Form in New Tab ↗
-       </a>
-    
-    <hr>
-<div style="font-size: 0.6em; line-height: 1;">
+        <div style="font-size: 0.6em; line-height: 1;">
 Important Information Regarding Accommodations<br>
 - Room Sharing & Occupancy: Accommodation rates are based on double occupancy. All rooms are Twin Rooms (two separate beds). <br>
 - Roommate Pairing: Guests will be paired with a roommate of the same gender.<br>
 - Preferred Roommates: If you have already identified a preferred roommate, please indicate their full name in the designated field during registration.<br>
 - Please note that breakfast is not included in the standard registration fee.<br>
 </div>
+       <br>
+
+       <a href="https://forms.gle/TJ8jBXiRBrpgeSk56" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+          Open Form in New Tab ↗
+       </a>
+   
+    <hr>
 
 <iframe src="https://forms.gle/TJ8jBXiRBrpgeSk56?embedded=true" 
         style="width: 100%; height: 600px !important; min-height: 600px;" 
