@@ -25,11 +25,37 @@ Important Information Regarding Accommodations<br>
 - Preferred Roommates: If you have already identified a preferred roommate, please indicate their full name in the designated field during registration.<br>
 - Please note that breakfast is not included in the standard registration fee.<br>
 
-| Registration Type | Includes | Students / Post-docs | PI | Industry |
-|---|---|---:|---:|---:|
-| Full registration, without accommodation | Tea breaks and lunch | USD 200 | USD 300 | USD 500 |
-| Full registration, with twin-sharing accommodation | Tea breaks and lunch | USD 350 | USD 450 | USD 800 |
+<h3>Registration Fees</h3>
 
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px;">
+    <thead>
+      <tr style="background-color: #f2f2f2;">
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Registration Type</th>
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Includes</th>
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Students / Post-docs</th>
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">PI</th>
+        <th style="border: 1px solid #ccc; padding: 10px; text-align: right;">Industry</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, without accommodation</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">Tea breaks and lunch</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 200</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 300</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 500</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Full registration, with twin-sharing accommodation</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">Tea breaks and lunch</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 350</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 450</td>
+        <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">USD 800</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
        <br>
        <a href="https://forms.gle/TJ8jBXiRBrpgeSk56" 
           target="_blank" 
