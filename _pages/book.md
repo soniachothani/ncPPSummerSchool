@@ -20,7 +20,7 @@ permalink: /book/
    <i> For your convenience, we are offering registration options with or without accommodations</i>
     Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.<br><br>
 
-<div style="font-size: 0.9em; line-height: 1.5;">
+<div style="font-size: 0.6em; line-height: 1;">
 Important Information Regarding Accommodations<br>
 - Room Sharing & Occupancy: Accommodation rates are based on double occupancy. All rooms are Twin Rooms (two separate beds). <br>
 - Roommate Pairing: Guests will be paired with a roommate of the same gender.<br>
