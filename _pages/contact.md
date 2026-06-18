@@ -35,7 +35,7 @@ permalink: /contact/
             alt="Dr. Marie Brunet"
             style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
             
-            <strong>Marie Brunet</strong><br>
+            <strong>Marie A. Brunet</strong><br>
             Sherbrooke University, Canada <br>
             marie.brunet@usherbrooke.ca
             
