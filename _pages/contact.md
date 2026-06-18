@@ -17,17 +17,6 @@ permalink: /contact/
             
             <table>
             <tr>
-            <td align="center">
-            
-            <img src="{{ '/assets/images/mb.jpg' | relative_url }}" 
-            alt="Dr. Marie Brunet"
-            style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
-            
-            <strong>Marie Brunet</strong><br>
-            Sherbrooke University, Canada <br>
-            marie.brunet@usherbrooke.ca
-            
-            </td>
             
             <td align="center">
             
@@ -38,6 +27,17 @@ permalink: /contact/
             <strong>Sonia Chothani</strong><br>
             Genome Institute of Singapore, A*STAR<br>
             sonia_chothani@a-star.edu.sg
+            
+            </td>
+             <td align="center">
+            
+            <img src="{{ '/assets/images/mb.jpg' | relative_url }}" 
+            alt="Dr. Marie Brunet"
+            style="width:150px;height:150px;border-radius:30%;object-fit:cover;object-position:top;"><br>
+            
+            <strong>Marie Brunet</strong><br>
+            Sherbrooke University, Canada <br>
+            marie.brunet@usherbrooke.ca
             
             </td>
             </tr>
