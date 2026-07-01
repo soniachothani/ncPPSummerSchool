@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ncPP summer school 2026"
+title: "Bridging the gap: RNA translation to hidden proteomes summer school 2026"
 permalink: /
 classes: landing
 ---
