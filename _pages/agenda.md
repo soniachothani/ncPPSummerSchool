@@ -154,14 +154,14 @@ permalink: /agenda/
 
   .program-time {
     margin: 0 0 0.15rem 0;
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: 600;
     color: #333;
   }
 
   .program-session {
     margin: 0 0 0.45rem 0;
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     font-weight: 700;
     color: #111;
   }
