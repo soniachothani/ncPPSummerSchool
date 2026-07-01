@@ -139,14 +139,14 @@ permalink: /agenda/
 
   <hr>
 
-  <h4>Wednesday, 23.09.2026 – Time TBC</h4>
+  <h4>Thursday, 24.09.2026 – 1 pm to 1:30 pm</h4>
   <ul>
     <li>Registration</li>
   </ul>
 
   <br>
 
-  <h4>Thursday, 24.09.2026 – 1pm to 3pm</h4>
+  <h4>Thursday, 24.09.2026 – 1:30 pm to 3:30 pm pm</h4>
   <h4>S01: Foundation of RNA Translation &amp; Ribo-seq</h4>
   <ul>
     <li>Lecture by Pavel Baranov, <em>Foundations of RNA Translation and the Expanding Coding Landscape</em></li>
@@ -156,59 +156,52 @@ permalink: /agenda/
 
   <br>
 
-  <h4>Thursday, 24.09.2026 – 4pm to 6pm</h4>
+  <h4>Thursday, 24.09.2026 – 4 pm to 6 pm</h4>
   <h4>S02: Experimental Workflows and Pre-processing</h4>
   <ul>
     <li>Lecture by Zhi Xie, <em>Quality Control for Translation-focused Omics Data</em></li>
     <li>Hands-on Demo by Sonia Chothani, <em>Pre-processing, ORF Detection and Differential Analysis</em></li>
-    <li>Networking &amp; Cultural Activity</li>
+    <li>Networking &amp; Singapore sightseeing / group activity</li>
   </ul>
 
   <br>
 
-  <h4>Friday, 25.09.2026 – 9am to 12 noon</h4>
-  <h4>S03: Application-catered Selection of ORFs for Downstream Applications</h4>
+  <h4>Friday, 25.09.2026 – 9 am to 10:30 am </h4>
+  <h4>S03: Applications and other ribosome-associated technologies </h4>
   <ul>
     <li>Lecture, <em>Speaker/Title TBD</em></li>
     <li>Sponsor Talk by Massimiliano Clamer, Immagina Biotech, <em>Technology Solutions for Translation Profiling and Ribosome-associated Workflows</em></li>
-    <li>Coffee Break</li>
-    <li>Flash Talks and Practical Session, <em>From ORF Discovery to Downstream Validation</em></li>
-    <li>Lunch</li>
+    <li>Flash Talks and Practical Session, <em>Application catered ORF selection</em></li>
   </ul>
+    <li>Coffee Break</li>
 
-  <br>
-
-  <h4>Friday, 25.09.2026 – 1pm to 3pm</h4>
+ <h4>Friday, 25.09.2026 – 11 am to 11:45 am </h4>
   <h4>S04: Proteomic Workflows for Non-canonical Protein Identification</h4>
   <ul>
-    <li>Lecture by Lennart Martens, <em>Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins</em></li>
-    <li>Coffee Break</li>
-    <li>Lecture by Wu Wei, <em>Experimental Design for ncPP Discovery: From Samples to Sequencing Data</em></li>
+    <li>Lecture by Lennart Martens, <em>Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins</em></li>    
+    <li>Lunch</li>
+  <br>
+
+ <h4>Friday, 25.09.2026 – 11 am to 11:45 am </h4>
+  <h4>S04: Proteomic Workflows for Non-canonical Protein Identification</h4>
+    <li>Lecture by Eric Deutsch, <em>High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins</em></li>
+    <li>Lecture by Wu Wei, <em>Immunopeptidomics: From Samples to peptide discovery</em></li>
   </ul>
 
   <br>
+    <li>Coffee Break</li>
 
   <h4>Friday, 25.09.2026 – 4pm to 6pm</h4>
   <h4>S05: Spectral Validation for Confident Identification</h4>
   <ul>
-    <li>Lecture by Eric Deutsch, <em>High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins</em></li>
-    <li>Lecture by Wu Wei, <em>Validation, Reproducibility, and Confidence in Spectral Interpretation</em></li>
+    <li>Hands-on demo by Marie Brunet <em>Targeted proteomics for rarer peptide discovery and quantitative protein dysreglation</em></li>
     <li>Panel Discussion, <em>What Evidence Is Enough for Confident ncPP Identification?</em></li>
     <li>Speakers Dinner</li>
   </ul>
 
   <br>
 
-  <h4>Saturday, 26.09.2026 – Time TBC</h4>
-  <h4>S06: Scientific Talks</h4>
-  <ul>
-    <li>Scientific Talks by selected participants / invited speakers</li>
-    <li>Coffee Break</li>
-  </ul>
-
-  <br>
-
-  <h4>Saturday, 26.09.2026 – 09:00 to 12:00</h4>
+  <h4>Saturday, 26.09.2026 – 9 am to 12 noon</h4>
   <h4>Combined Event with ncPP and HIPP</h4>
   <ul>
     <li>09:00–09:30 Lecture by Jenn Abelin, <em>Dark Proteome Discovery in Cancers Using Ribosome Profiling and Proteogenomics</em></li>
