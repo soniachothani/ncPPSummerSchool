@@ -128,71 +128,98 @@ permalink: /agenda/
   
 </div>
 
-## Tentative Program
+<section class="program">
 
-Please note that the program is tentative and subject to change. Exact timings and talk titles will be updated in due time.
+  <h2>Tentative Program</h2>
 
-#### Wednesday, 24.09.2026 – Time TBC
+  <p>
+    Please note that the program is tentative and subject to change.
+    Exact timings and talk titles will be updated in due time.
+  </p>
 
-  * Registration
+  <hr>
 
-#### Thursday, 24.09.2026 - 1pm to 3pm
-#### S01: Foundation of RNA Translation & Ribo-seq
+  <h4>Wednesday, 23.09.2026 – Time TBC</h4>
+  <ul>
+    <li>Registration</li>
+  </ul>
 
-  * Lecture by Pavel Baranov, *Foundations of RNA Translation and the Expanding Coding Landscape*
-  * Lecture by Eivind Valen, *Large-scale Ribo-seq Databases and visualizations for ORF discovery*
-  * Coffee Break
+  <br>
 
-#### Thursday, 24.09.2026 – 4pm to 6pm
-#### S02: Experimental Workflows and Pre-processing
+  <h4>Thursday, 24.09.2026 – 1pm to 3pm</h4>
+  <h4>S01: Foundation of RNA Translation &amp; Ribo-seq</h4>
+  <ul>
+    <li>Lecture by Pavel Baranov, <em>Foundations of RNA Translation and the Expanding Coding Landscape</em></li>
+    <li>Lecture by Eivind Valen, <em>Large-scale Ribo-seq Databases and Visualizations for ORF Discovery</em></li>
+    <li>Coffee Break</li>
+  </ul>
 
-  * Lecture by Zhi Xie, *Quality Control for Translation-focused Omics Data*
-  * Hands-on demo by Sonia Chothani, *Pre-processing, ORF detection and differential analysis*
-  * Networking & Cultural Activity
+  <br>
 
-#### Friday, 25.09.2026 – 9 am to 12 noon
-#### S03: Application-catered Selection of ORFs for Downstream Applications
+  <h4>Thursday, 24.09.2026 – 4pm to 6pm</h4>
+  <h4>S02: Experimental Workflows and Pre-processing</h4>
+  <ul>
+    <li>Lecture by Zhi Xie, <em>Quality Control for Translation-focused Omics Data</em></li>
+    <li>Hands-on Demo by Sonia Chothani, <em>Pre-processing, ORF Detection and Differential Analysis</em></li>
+    <li>Networking &amp; Cultural Activity</li>
+  </ul>
 
-  * Lecture 
-  * Sponsor Talk by Massimiliano Clamer, Immagina Biotech, *Technology Solutions for Translation Profiling and Ribosome-associated Workflows*
-  * Coffee Break
-  * Flash talks and Practical Session, *From ORF Discovery to Downstream Validation*
- 
-  * Lunch
+  <br>
 
-#### Friday, 25.09.2026 – 1pm to 3pm 
-#### S04: Proteomic Workflows for Non-canonical Protein Identification
+  <h4>Friday, 25.09.2026 – 9am to 12 noon</h4>
+  <h4>S03: Application-catered Selection of ORFs for Downstream Applications</h4>
+  <ul>
+    <li>Lecture, <em>Speaker/Title TBD</em></li>
+    <li>Sponsor Talk by Massimiliano Clamer, Immagina Biotech, <em>Technology Solutions for Translation Profiling and Ribosome-associated Workflows</em></li>
+    <li>Coffee Break</li>
+    <li>Flash Talks and Practical Session, <em>From ORF Discovery to Downstream Validation</em></li>
+    <li>Lunch</li>
+  </ul>
 
-  * Lecture by Lennart Martens, *Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins*
-  * Coffee Break
-  *   * Lecture by Wu Wei, *Experimental Design for ncPP Discovery: From Samples to Sequencing Data*
+  <br>
 
+  <h4>Friday, 25.09.2026 – 1pm to 3pm</h4>
+  <h4>S04: Proteomic Workflows for Non-canonical Protein Identification</h4>
+  <ul>
+    <li>Lecture by Lennart Martens, <em>Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins</em></li>
+    <li>Coffee Break</li>
+    <li>Lecture by Wu Wei, <em>Experimental Design for ncPP Discovery: From Samples to Sequencing Data</em></li>
+  </ul>
 
-#### Thursday, 24.09.2026 – 4pm to 6pm 
-#### S05: Spectral Validation for Confident Identification
+  <br>
 
-  * Lecture by Eric Deutsch, *High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins*
-  * Lecture by Wu Wei, *Validation, Reproducibility, and Confidence in Spectral Interpretation*
-  * 
-  * Panel Discussion, *What Evidence Is Enough for Confident ncPP Identification?*
-  * Speakers Dinner
+  <h4>Friday, 25.09.2026 – 4pm to 6pm</h4>
+  <h4>S05: Spectral Validation for Confident Identification</h4>
+  <ul>
+    <li>Lecture by Eric Deutsch, <em>High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins</em></li>
+    <li>Lecture by Wu Wei, <em>Validation, Reproducibility, and Confidence in Spectral Interpretation</em></li>
+    <li>Panel Discussion, <em>What Evidence Is Enough for Confident ncPP Identification?</em></li>
+    <li>Speakers Dinner</li>
+  </ul>
 
-#### Friday, 25.09.2026 – Time TBC
-#### S06: Scientific Talks
+  <br>
 
-  * Scientific Talks by selected participants / invited speakers
-  * Coffee Break
+  <h4>Saturday, 26.09.2026 – Time TBC</h4>
+  <h4>S06: Scientific Talks</h4>
+  <ul>
+    <li>Scientific Talks by selected participants / invited speakers</li>
+    <li>Coffee Break</li>
+  </ul>
 
-#### Saturday, 26.09.2026 – 09:00 to 12:00
-#### Combined event with ncPP and HIPP
-  * 09:00-09:30 Lecture by Jenn Abelin, *Dark proteome discovery in cancers using Ribosome profiling and proteogenomics*
-  * 09:30-10:00 Lecture by Yardena Samuels, *Challenges and solutions in effectively targeting neoantigens*
-  * 10:00-10:30 Coffee Break
-  * 10:30-11:00 Lecture, *Speaker/Title TBD*
-  * 11:00-11:30 Lecture by Michal Bassani-Sternberg, *Multi-omic discovery of non-canonical immunopeptidome sources: challenges and emerging opportunities*
-  * 11:30-12:00 Panel Discussion and Closing
+  <br>
 
+  <h4>Saturday, 26.09.2026 – 09:00 to 12:00</h4>
+  <h4>Combined Event with ncPP and HIPP</h4>
+  <ul>
+    <li>09:00–09:30 Lecture by Jenn Abelin, <em>Dark Proteome Discovery in Cancers Using Ribosome Profiling and Proteogenomics</em></li>
+    <li>09:30–10:00 Lecture by Yardena Samuels, <em>Challenges and Solutions in Effectively Targeting Neoantigens</em></li>
+    <li>10:00–10:30 Coffee Break</li>
+    <li>10:30–11:00 Lecture, <em>Speaker/Title TBD</em></li>
+    <li>11:00–11:30 Lecture by Michal Bassani-Sternberg, <em>Multi-omic Discovery of Non-canonical Immunopeptidome Sources: Challenges and Emerging Opportunities</em></li>
+    <li>11:30–12:00 Panel Discussion and Closing</li>
+  </ul>
 
+</section>
 
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
