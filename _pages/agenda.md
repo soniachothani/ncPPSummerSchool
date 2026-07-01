@@ -128,12 +128,13 @@ permalink: /agenda/
   
 </div>
 
-<section class="program">
 
- <style>
+<section class="program">
+<style>
   .program {
-    max-width: 900px;
-    margin: 0 auto;
+    width: 100%;
+    max-width: none;
+    margin: 0;
   }
 
   .program-intro {
@@ -180,8 +181,6 @@ permalink: /agenda/
     color: #333;
   }
 </style>
-
-<section class="program">
 
   <h2>Tentative Program</h2>
 
