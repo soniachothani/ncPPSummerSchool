@@ -127,6 +127,73 @@ permalink: /agenda/
   </div>
   
 </div>
+
+## Tentative Program
+
+Please note that the program is tentative and subject to change. Exact timings and talk titles will be updated in due time.
+
+#### Wednesday, 24.09.2026 – Time TBC
+
+  * Registration
+
+#### Thursday, 24.09.2026 - 1pm to 3pm
+#### S01: Foundation of RNA Translation & Ribo-seq
+
+  * Lecture by Pavel Baranov, *Foundations of RNA Translation and the Expanding Coding Landscape*
+  * Lecture by Eivind Valen, *Large-scale Ribo-seq Databases and visualizations for ORF discovery*
+  * Coffee Break
+
+#### Thursday, 24.09.2026 – 4pm to 6pm
+#### S02: Experimental Workflows and Pre-processing
+
+  * Lecture by Zhi Xie, *Quality Control for Translation-focused Omics Data*
+  * Hands-on demo by Sonia Chothani, *Pre-processing, ORF detection and differential analysis*
+  * Networking & Cultural Activity
+
+#### Friday, 25.09.2026 – 9 am to 12 noon
+#### S03: Application-catered Selection of ORFs for Downstream Applications
+
+  * Lecture 
+  * Sponsor Talk by Massimiliano Clamer, Immagina Biotech, *Technology Solutions for Translation Profiling and Ribosome-associated Workflows*
+  * Coffee Break
+  * Flash talks and Practical Session, *From ORF Discovery to Downstream Validation*
+ 
+  * Lunch
+
+#### Friday, 25.09.2026 – 1pm to 3pm 
+#### S04: Proteomic Workflows for Non-canonical Protein Identification
+
+  * Lecture by Lennart Martens, *Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins*
+  * Coffee Break
+  *   * Lecture by Wu Wei, *Experimental Design for ncPP Discovery: From Samples to Sequencing Data*
+
+
+#### Thursday, 24.09.2026 – 4pm to 6pm 
+#### S05: Spectral Validation for Confident Identification
+
+  * Lecture by Eric Deutsch, *High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins*
+  * Lecture by Wu Wei, *Validation, Reproducibility, and Confidence in Spectral Interpretation*
+  * 
+  * Panel Discussion, *What Evidence Is Enough for Confident ncPP Identification?*
+  * Speakers Dinner
+
+#### Friday, 25.09.2026 – Time TBC
+#### S06: Scientific Talks
+
+  * Scientific Talks by selected participants / invited speakers
+  * Coffee Break
+
+#### Saturday, 26.09.2026 – 09:00 to 12:00
+#### Combined event with ncPP and HIPP
+  * 09:00-09:30 Lecture by Jenn Abelin, *Dark proteome discovery in cancers using Ribosome profiling and proteogenomics*
+  * 09:30-10:00 Lecture by Yardena Samuels, *Challenges and solutions in effectively targeting neoantigens*
+  * 10:00-10:30 Coffee Break
+  * 10:30-11:00 Lecture, *Speaker/Title TBD*
+  * 11:00-11:30 Lecture by Michal Bassani-Sternberg, *Multi-omic discovery of non-canonical immunopeptidome sources: challenges and emerging opportunities*
+  * 11:30-12:00 Panel Discussion and Closing
+
+
+
 Session titles (subject to change)<br>
 S01: Foundation of RNA translation & Ribo-seq <br>
 S02: Experimental workflows and pre-processing <br>
@@ -135,6 +202,8 @@ S03: Application-catered selection of ORFs for downstream applications <br>
 S04: Proteomic workflows for non-canonical protein identification <br>
 S05: Spectral validation for confident identification <br>
 <br>
+
+
 
 <img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
 
