@@ -228,9 +228,9 @@ permalink: /agenda/
 
   <div class="program-block">
     <h4 class="program-time">Friday, 25.09.2026 – 11:00 am to 11:45 am</h4>
-    <p class="program-session">S04: Proteomic Workflows for Non-canonical Protein Identification</p>
+    <p class="program-session">S04: Foundations and outlook of proteomics and immunopeptidomics  </p>
     <ul>
-      <li>Lecture by Lennart Martens, <em>Data Analysis Workflows for Proteomic Evidence of Non-canonical Proteins</em></li>
+      <li>Lecture by Lennart Martens, <em>Focus, but broadly: AI's role in the high dynamic range immunopeptidome</em></li>
       <li>Lunch</li>
     </ul>
   </div>
