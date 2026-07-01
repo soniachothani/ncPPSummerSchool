@@ -269,14 +269,6 @@ permalink: /agenda/
   </div>
 
 </section>
-Session titles (subject to change)<br>
-S01: Foundation of RNA translation & Ribo-seq <br>
-S02: Experimental workflows and pre-processing <br>
-Sponsor talk: Immagina Biotech, Massimiliano Clamer, CEO <br>
-S03: Application-catered selection of ORFs for downstream applications <br>
-S04: Proteomic workflows for non-canonical protein identification <br>
-S05: Spectral validation for confident identification <br>
-<br>
 
 
 
