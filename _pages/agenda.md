@@ -200,7 +200,7 @@ permalink: /agenda/
     <p class="program-session">S01: Foundation of RNA Translation &amp; Ribo-seq</p>
     <ul>
       <li>Lecture by Pavel Baranov, <em>Foundations of RNA Translation and the Expanding Coding Landscape</em></li>
-      <li>Lecture by Eivind Valen, <em>Large-scale Ribo-seq Databases and Visualizations for ORF Discovery</em></li>
+      <li>Lecture by Eivind Valen, <em> Ribo-Seq at Scale, Predicting Micropeptides from a Trillion Reads</em></li>
       <li>Coffee Break</li>
     </ul>
   </div>
@@ -209,8 +209,8 @@ permalink: /agenda/
     <h4 class="program-time">Thursday, 24.09.2026 – 4:00 pm to 6:00 pm</h4>
     <p class="program-session">S02: Experimental Workflows and Pre-processing</p>
     <ul>
-      <li>Lecture by Zhi Xie, <em>Quality Control for Translation-focused Omics Data</em></li>
-      <li>Hands-on Demo by Sonia Chothani, <em>Pre-processing, ORF Detection and Differential Analysis</em></li>
+      <li>Lecture by Zhi Xie, <em>Translation databases and quality control </em></li>
+      <li>Hands-on Demo by Sonia Chothani, <em>Pre-processing, ORF Detection and differential translation analysis</em></li>
       <li>Networking &amp; Singapore sightseeing / group activity</li>
     </ul>
   </div>
