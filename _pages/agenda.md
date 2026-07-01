@@ -236,7 +236,7 @@ permalink: /agenda/
   </div>
 
   <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – Time TBC</h4>
+    <h4 class="program-time">Friday, 25.09.2026 – 1 pm to 3 pm </h4>
     <p class="program-session">S04: Proteomic Workflows for Non-canonical Protein Identification</p>
     <ul>
       <li>Lecture by Eric Deutsch, <em>High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins</em></li>
