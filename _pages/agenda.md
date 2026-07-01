@@ -182,7 +182,7 @@ permalink: /agenda/
   }
 </style>
 
-  <h2>Tentative Program</h2>
+  <h3>Tentative Program</h3>
 
   <p class="program-intro">
     Please note that the program is tentative and subject to change. Exact timings and talk titles will be updated in due time.
