@@ -20,7 +20,7 @@ permalink: /about/
     For the past decade, breakthroughs in Ribo-seq and proteogenomics have fundamentally shifted our understanding of how RNA translates. We now know the transcriptome holds a vast, untapped repertoire of previously unannoated (i.e., non-canonical) open reading frames (ORFs). Unlocking this "dark proteome" is the next frontier for life-changing biomarkers and therapeutics. <br><br>
 
     Bridging the Gap: <br>
-    Despite its potential, mapping the translatome remains technically complex and siloed. To bridge this divide, the Non-Canonical Proteome Project and the TransCODE Consortium are proud to present our inaugural Summer School in Singapore (September 24–26 2026). <br><br>
+    Despite its potential, mapping the translatome remains technically complex and siloed. To bridge this divide, the Non-Canonical Proteome Project (ncPP) and the TransCODE Consortium are proud to present our inaugural Summer School in Singapore (September 24–26 2026). <br><br>
     
     Day 1: Ribo-seq Focus – From experimental design to computational ORF calling. <br><br>
 
