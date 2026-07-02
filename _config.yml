@@ -10,7 +10,7 @@ baseurl: ""              # ← only if you're using a project repo (not needed f
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Bridging the gap: RNA translation to hidden proteomes | Pre-event to HUPO 2026"
+title                    : "RNA translation to hidden proteomes | Pre-event to HUPO 2026"
 title_separator          : "-"
 header:
   sticky                 : true
