@@ -16,6 +16,7 @@ classes: landing
       <img src="{{ '/assets/images/sidebar_website.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
+      <img src="{{ '/assets/images/DarkProteome_SS2026.png' | relative_url }}" />
       <h1>Bridging the gap: RNA translation to hidden proteomes 2026</h1>
 
      
