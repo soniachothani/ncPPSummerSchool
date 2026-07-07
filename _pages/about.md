@@ -16,6 +16,8 @@ permalink: /about/
     <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
     <img src="{{ '/assets/images/DarkProteome_SS2026.png' | relative_url }}"  style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0 0 1rem 0;"
+ /><br>
+     <img src="{{ '/assets/images/ncpp_logo_only.png' | relative_url }}"  style="max-width: 160px; width: 100%; height: auto; display: block; margin: 0 0 1rem 0;"
  />
     For the past decade, breakthroughs in Ribo-seq and proteogenomics have fundamentally shifted our understanding of how RNA translates. We now know the transcriptome holds a vast, untapped repertoire of previously unannoated (i.e., non-canonical) open reading frames (ORFs). Unlocking this "dark proteome" is the next frontier for life-changing biomarkers and therapeutics. <br><br>
 
