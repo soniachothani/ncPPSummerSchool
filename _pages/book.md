@@ -15,7 +15,7 @@ permalink: /book/
     <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
     <h2>Abstract Submission for registration</h2>
-    <p>Please fill out the form below to submit your abstract for consideration. Abstracts will be considered as and when submitted. Seats are limited. <b> DEADLINE: 6th July 2026</b> </p>
+    <p>Please fill out the form below to submit your abstract for consideration. Abstracts will be considered as and when submitted. Seats are limited. <b> DEADLINE: 13th July 2026</b> </p>
 
    <i> For your convenience, we are offering registration options with or without accommodations</i>
     Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.
