@@ -15,8 +15,9 @@ permalink: /book/
     <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
     <h2>Abstract Submission for registration</h2>
-    <p>Please fill out the form below to submit your abstract for consideration. Abstracts will be considered as and when submitted. Seats are limited. <b> DEADLINE: 31st July 2026</b> 
-    Poster  presentation is NOT mandatory. Please feel free to apply even if you are new to the dark proteome field and want to learn about it - in that case, you can submit an abstract describing your current work and why you are interested to attend this meeting. </p>
+    <p>Please fill out the form below to submit your abstract for consideration. Abstracts will be considered as and when submitted. Seats are limited. <b> DEADLINE: 31st July 2026</b> <br> 
+    Poster  presentation is NOT mandatory. <br> 
+    Please feel free to apply even if you are new to the dark proteome field and want to learn about it - in that case, you can submit an abstract describing your current work and why you are interested to attend this meeting. </p>
 
    <i> For your convenience, we are offering registration options with or without accommodations</i>
     Registration payment link will be e-mailed to you upon acceptance of the submitted abstract.
