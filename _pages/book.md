@@ -15,7 +15,7 @@ permalink: /book/
     <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow: visible !important;">
 
     <h2>Registration process</h2>
-    <p>Please fill out the form below to register for the event. Seats are limited. <b> DEADLINE: 10th Aug 2026</b> <br> 
+    <p>Please fill out the form below to register for the event. Seats are limited. <b> DEADLINE: 11th Aug 2026</b> <br> 
     Poster  presentation is NOT mandatory. <br> 
     If you are interested to present a poster please submit an abstract using the registration form. If you do not plan to present a poster you can submit an abstract describing your current work and why you are interested to attend this meeting. </p>
    <i> For your convenience, we are offering registration options with or without accommodations</i>
