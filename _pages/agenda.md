@@ -66,7 +66,7 @@ permalink: /agenda/
 
 
   <div style="flex: 0 0 92px; width: 92px; text-align: center;">
-    <img src="{{ '/assets/images/SS.jpg' | relative_url }}" alt="Sarah Slavoff" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
+    <img src="{{ '/assets/images/SS.jpg' | relative_url }}" alt="Sarah Slavoff" style="width: 85px; height: 85px; object-fit: contain; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Sarah Slavoff </strong><br>
       <span style="font-size: 0.62rem; color: #666;">Yale University, USA</span>
