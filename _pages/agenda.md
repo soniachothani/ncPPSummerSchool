@@ -15,7 +15,7 @@ permalink: /agenda/
      <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow-x: hidden !important; max-width: 100%; box-sizing: border-box;">
    
 
-<h3 style="margin-top: 0; margin-bottom: 4px;">Confirmed speakers</h3>
+<h3 style="margin-top: 0; margin-bottom: 4px;">Invited speakers</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 10px; margin-top: 8px; margin-bottom: 0px; align-items: flex-start; max-width: 100%; box-sizing: border-box;">
 
