@@ -265,8 +265,23 @@ permalink: /agenda/
     <h4 class="program-time">Friday, 25.09.2026 – 4:00 pm to 5:00 pm</h4>
     <p class="program-session">S05: Spectral Validation for Confident Identification</p>
     <ul>
-      <li>Hands-on Demo by Marie Brunet, <em>Targeted Proteomics for Rare Peptide Discovery and Quantitative Protein Dysregulation</em></li>
+      <li>Hands-on Demo by Marie Brunet, <em>Targeted Proteomics for Rare Peptide Discovery and Quantitative Protein Dysregulation</em>      
+      </li>
    </ul>
+
+    
+  </div>
+
+<div class="program-block">
+    <h4 class="program-time">Friday, 25.09.2026 – 5:00 pm to 5:30 pm</h4>
+    <p class="program-session">S05: Short-talks</p>
+    <ul>
+      <li>Short-talk <em> Dr. Qian Zhao. Hong Kong Polytechnic University, China. Engineering the Microprotein Workflow: From Enrichment, TMT-labelling, Acquisition to DIA Libraries </em></li>
+<li>Short-talk <em> Dr. Sandeep Eswarappa. Indian Institute of Science, India. Leaky scanning translates a conserved ORF in the 3′UTR of RPL36A and regulates the expression of ribosomal protein L36a </em></li>
+
+    </ul>
+
+    
   </div>
 
   <div class="program-block">
