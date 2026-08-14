@@ -262,13 +262,11 @@ permalink: /agenda/
   </div>
 
   <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 4:00 pm to 6:00 pm</h4>
+    <h4 class="program-time">Friday, 25.09.2026 – 4:00 pm to 5:00 pm</h4>
     <p class="program-session">S05: Spectral Validation for Confident Identification</p>
     <ul>
       <li>Hands-on Demo by Marie Brunet, <em>Targeted Proteomics for Rare Peptide Discovery and Quantitative Protein Dysregulation</em></li>
-      <li>Panel Discussion, <em>What Evidence Is Enough for Confident ncPP Identification?</em></li>
-      <li>Speakers Dinner</li>
-    </ul>
+   </ul>
   </div>
 
   <div class="program-block">
