@@ -94,7 +94,7 @@ permalink: /agenda/
      <img src="{{ '/assets/images/ZX.jpg' | relative_url }}" alt="Zhe Xie" style="width: 85px; height: 85px; object-fit: cover; object-position: center top; border-radius: 50%; display: block; margin: 0 auto 5px auto;" />
     <div style="font-size: 0.68rem; line-height: 1.15;">
       <strong>Zhi Xie</strong><br>
-      <span style="font-size: 0.62rem; color: #666;">Sun Yat-sen University, China </span>
+      <span style="font-size: 0.62rem; color: #666;">Guangzhou National Laboratory, China </span>
     </div>
   </div>
   
