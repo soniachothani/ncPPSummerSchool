@@ -299,11 +299,6 @@ permalink: /agenda/
 
 </section>
 
-
-
-<img src="{{ '/assets/images/schedule2.png' | relative_url }}" />
-
-
 <br>
 
     </div>
