@@ -14,6 +14,12 @@ permalink: /agenda/
 
      <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow-x: hidden !important; max-width: 100%; box-sizing: border-box;">
    
+<p style="margin-top: 0;">
+  <a href="{{ '/assets/documents/Dark_Proteome_Summer_School_2026_Program_Booklet_09092026.pdf' | relative_url }}"
+     target="_blank" rel="noopener">
+    Download the full programme (PDF)
+  </a>
+</p>
 
 <h3 style="margin-top: 0; margin-bottom: 4px;">Invited speakers</h3>
 
