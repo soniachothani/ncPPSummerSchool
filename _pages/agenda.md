@@ -14,6 +14,8 @@ permalink: /agenda/
 
      <div class="main-content" style="padding-top: 40px !important; margin-top: 0 !important; overflow-x: hidden !important; max-width: 100%; box-sizing: border-box;">
    
+<h3 style="margin-top: 0; margin-bottom: 4px;">Program booklet </h3>
+
 <p style="margin-top: 0;">
   <a href="{{ '/assets/Dark_Proteome_Summer_School_2026_Program_Booklet_09092026.pdf' | relative_url }}"
      target="_blank" rel="noopener">
@@ -204,108 +206,7 @@ permalink: /agenda/
   }
 </style>
 
-  <h3>Tentative Program</h3>
-
-  <p class="program-intro">
-    Please note that the program is tentative and subject to change. Exact timings and talk titles will be updated in due time.
-  </p>
-
-  <div class="program-block">
-    <h4 class="program-time">Thursday, 24.09.2026 – 1:00 pm to 1:30 pm</h4>
-    <ul>
-      <li>Registration</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Thursday, 24.09.2026 – 1:30 pm to 3:30 pm</h4>
-    <p class="program-session">S01: Foundation of RNA Translation &amp; Ribo-seq</p>
-    <ul>
-      <li>Lecture by Pavel Baranov, <em>Foundations of RNA Translation and the Expanding Coding Landscape</em></li>
-      <li>Lecture by Eivind Valen, <em> Ribo-Seq at Scale, Predicting Micropeptides from a Trillion Reads</em></li>
-      <li>Coffee Break</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Thursday, 24.09.2026 – 4:00 pm to 6:00 pm</h4>
-    <p class="program-session">S02: Experimental Workflows and Pre-processing</p>
-    <ul>
-      <li>Lecture by Zhi Xie, <em>Translation databases and quality control </em></li>
-      <li>Hands-on Demo by Sonia Chothani, <em>Pre-processing, ORF Detection and differential translation analysis</em></li>
-      <li>Networking &amp; Singapore sightseeing / group activity</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 9:00 am to 10:30 am</h4>
-    <p class="program-session">S03: Applications and Other Ribosome-associated Technologies</p>
-    <ul>
-      <li>Lecture, <em>Speaker/Title TBD</em></li>
-      <li>Sponsor Talk by Massimiliano Clamer, Immagina Biotech, <em>Technology Solutions for Translation Profiling and Ribosome-associated Workflows</em></li>
-      <li>Flash Talks and Practical Session, <em>Application-catered ORF Selection</em></li>
-      <li>Coffee Break</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 11:00 am to 11:45 am</h4>
-    <p class="program-session">S04: Foundations and outlook of proteomics and immunopeptidomics  </p>
-    <ul>
-      <li>Lecture by Lennart Martens, <em>Focus, but broadly: AI's role in the high dynamic range immunopeptidome</em></li>
-      <li>Lunch</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 1 pm to 3 pm </h4>
-    <p class="program-session">S04: Proteomic Workflows for Non-canonical Protein Identification</p>
-    <ul>
-      <li>Lecture by Eric Deutsch, <em>High-quality Peptide Evidence for Annotating Non-canonical ORFs as Proteins</em></li>
-      <li>Lecture by Wu Wei, <em>Immunopeptidomics: From Samples to Peptide Discovery</em></li>
-      <li>Coffee Break</li>
-    </ul>
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 4:00 pm to 5:00 pm</h4>
-    <p class="program-session">S05: Spectral Validation for Confident Identification</p>
-    <ul>
-      <li>Hands-on Demo by Marie Brunet, <em>Targeted Proteomics for Rare Peptide Discovery and Quantitative Protein Dysregulation</em>      
-      </li>
-   </ul>
-
-    
-  </div>
-
-<div class="program-block">
-    <h4 class="program-time">Friday, 25.09.2026 – 5:00 pm to 5:30 pm</h4>
-    <p class="program-session">S05: Short-talks</p>
-    <ul>
-      <li>Short-talk <em> Dr. Qian Zhao. Hong Kong Polytechnic University, China. Engineering the Microprotein Workflow: From Enrichment, TMT-labelling, Acquisition to DIA Libraries </em></li>
-<li>Short-talk <em> Dr. Sandeep Eswarappa. Indian Institute of Science, India. Leaky scanning translates a conserved ORF in the 3′UTR of RPL36A and regulates the expression of ribosomal protein L36a </em></li>
-
-    </ul>
-
-    
-  </div>
-
-  <div class="program-block">
-    <h4 class="program-time">Saturday, 26.09.2026 – 9:00 am to 12:00 noon</h4>
-    <p class="program-session">Combined Event with ncPP and HIPP</p>
-    <ul>
-      <li>09:00–09:30 Lecture by Jenn Abelin, <em>Dark Proteome Discovery in Cancers Using Ribosome Profiling and Proteogenomics</em></li>
-      <li>09:30–10:00 Lecture by Yardena Samuels, <em>Challenges and Solutions in Effectively Targeting Neoantigens</em></li>
-      <li>10:00–10:30 Coffee Break</li>
-      <li>10:30–11:00 Lecture, <em>Speaker/Title TBD</em></li>
-      <li>11:00–11:30 Lecture by Michal Bassani-Sternberg, <em>Multi-omic Discovery of Non-canonical Immunopeptidome Sources: Challenges and Emerging Opportunities</em></li>
-      <li>11:30–12:00 Panel Discussion and Closing</li>
-    </ul>
-  </div>
-
-</section>
-
-<br>
+ 
 
     </div>
 
