@@ -17,7 +17,7 @@ permalink: /agenda/
 <h3 style="margin-top: 0; margin-bottom: 4px;">Program booklet </h3>
 <br>
 <p style="margin-top: 0;">
-  <a href="{{ '/assets/Dark_Proteome_Summer_School_2026_Program_Booklet_09092026.pdf' | relative_url }}"
+  <a href="{{ '/assets/Dark_Proteome_Summer_School_2026_Program_Booklet_17092026.pdf' | relative_url }}"
      target="_blank" rel="noopener">
     Download the full programme (PDF)
   </a>
